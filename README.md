@@ -1,1 +1,2 @@
-# Projeto-Concorr-ncia
+# Projeto-Concorrência
+Projeto introdutório de concorrência em Java
